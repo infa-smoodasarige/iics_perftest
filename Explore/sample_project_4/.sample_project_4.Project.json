@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "8fk0SVEQEiwjC5DRPlFrEm",
+    "name" : "sample_project_4",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "i am a Project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
